@@ -1,4 +1,4 @@
-/***
+/** *
 
     Quick Reply Toggle extension for the phpBB Forum Software package.
     Estonian translation by phpBBestonia.eu https://www.phpbbestonia.eu
